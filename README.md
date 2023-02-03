@@ -6,7 +6,7 @@ Docker Compose is a tool for defining and running multi-container Docker applica
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 🥈 Run
+### 🏆 Run
 
 - [http://localhost:9000/](http://localhost:9000/) username : `admin` password : `admin`
 
